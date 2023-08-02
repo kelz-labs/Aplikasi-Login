@@ -20,13 +20,13 @@ const inputPasswordElement = document.querySelector("#inputPassword");
 
 /**
  * Membuat variable expectedEmail untuk menyimpan informasi email sementara
- * @constant {HTMLElement}
+ * @constant {string}
  */
 const expectedEmail = "admin@dicoding.com";
 
 /**
  * Membuat variable expectedPassword untuk menyimpan informasi password sementara
- * @constant {HTMLElement}
+ * @constant {string}
  */
 const expectedPassword = "superpassword";
 
